@@ -1,0 +1,9 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "Spike with multer",
+  "main": "index.js",
+  "author": "claudio.engdist@gmail.com",
+  "license": "MIT",
+  "private": false
+}
